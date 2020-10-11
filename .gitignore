@@ -15,6 +15,5 @@ out/
 webapp/node_modules/
 webapp/public/
 .vscode
-gradle/
 bin/
 
